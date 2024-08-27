@@ -6,6 +6,7 @@
 
 port forward 2222
 vscode Remote-SSH
+open /workspaces
 copy rclone.conf to /workspaces/rclone_config/.rclone.conf
 
 ```bash
