@@ -1,4 +1,3 @@
-version: '2'
 services:
   mount-rclone01:
     image: mumiehub/rclone-mount:latest
